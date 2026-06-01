@@ -41,7 +41,7 @@ class _HomeState extends State<Home> {
       color: Colors.redAccent,
     ),
   ];
-
+// ajay is a good boy
   String _query = '';
   int _selectedCategoryIndex = -1;
 
